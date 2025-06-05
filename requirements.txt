@@ -15,4 +15,5 @@ streamlit==1.45.1
 sentence-transformers==2.2.2
 transformers==4.30.0
 torch==2.0.1
+huggingface_hub==0.16.4
 pickle5
