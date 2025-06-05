@@ -323,7 +323,7 @@ if 'pelicula_detalle' in st.session_state and datos_cargados:
     mostrar_detalles_pelicula(st.session_state.pelicula_detalle)
 else:
     # Título de la aplicación
-    st.title("🎬 Recomendador de Películass")
+    st.title("🎬 Recomendador de Películas")
     st.markdown("""
     Esta aplicación encuentra películas similares a una introducida por el usuario usando 
     un sistema de recomendación basado en embeddings.
