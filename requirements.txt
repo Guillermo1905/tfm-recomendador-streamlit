@@ -10,8 +10,9 @@ requests
 backoff
 unicodedata2
 Pillow
-torch
 tensorflow
-sentence-transformers
-streamlit
+streamlit==1.45.1
+sentence-transformers==2.2.2
+transformers==4.30.0
+torch==2.0.1
 pickle5
